@@ -23,5 +23,8 @@ I applied a confusion matrix that is used to describe the performance of a class
 
 ![Opera Snapshot_2022-02-22_115541_github com](https://user-images.githubusercontent.com/30430563/155108213-e9a48890-8618-430b-9dad-12afd0ae39e5.png)
 ![Opera Snapshot_2022-02-22_115602_github com](https://user-images.githubusercontent.com/30430563/155108233-fbe24fa2-86e5-4b40-8f0b-65c601383761.png)
-![Opera Snapshot_2022![Opera Snapshot_2022-02-22_115638_github com](https://user-images.githubusercontent.com/30430563/155108255-e18829bd-f5d0-4293-bd9d-567a4de84a92.png)
--02-22_115618_github com](https://user-images.githubusercontent.com/30430563/155108240-6146f11d-1660-431c-b566-ca71bba4ecb3.png)
+
+![Opera Snapshot_2022-02-22_115618_github com](https://user-images.githubusercontent.com/30430563/155108493-18808a55-52ec-428e-b905-7038bbc94c53.png)
+
+![Opera Snapshot_2022-02-22_115638_github com](https://user-images.githubusercontent.com/30430563/155108519-e6e7883b-473b-43ad-9a4d-4515b4e01947.png)
+
