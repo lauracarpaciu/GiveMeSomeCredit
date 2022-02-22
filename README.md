@@ -19,3 +19,9 @@ I started by printing a concise summary about a DataFrame including the index dt
  I train the dataset and have a logistic regression model.
 I applied a confusion matrix that is used to describe the performance of a classifier on a set of test data for which the target test dataset are known.
 
+
+
+![Opera Snapshot_2022-02-22_115541_github com](https://user-images.githubusercontent.com/30430563/155108213-e9a48890-8618-430b-9dad-12afd0ae39e5.png)
+![Opera Snapshot_2022-02-22_115602_github com](https://user-images.githubusercontent.com/30430563/155108233-fbe24fa2-86e5-4b40-8f0b-65c601383761.png)
+![Opera Snapshot_2022![Opera Snapshot_2022-02-22_115638_github com](https://user-images.githubusercontent.com/30430563/155108255-e18829bd-f5d0-4293-bd9d-567a4de84a92.png)
+-02-22_115618_github com](https://user-images.githubusercontent.com/30430563/155108240-6146f11d-1660-431c-b566-ca71bba4ecb3.png)
